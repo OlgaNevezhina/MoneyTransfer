@@ -35,8 +35,8 @@
 61% - успешных тестов, 38% - неуспешных тестов;
 
 Ссылки на баг-репорты:
-* https://github.com/OlgaNevezhina/MoneyTransfer/issues/1
-* https://github.com/OlgaNevezhina/MoneyTransfer/issues/2
+* [При зачислении на баланс суммы, превышающей значение в 2_147_483_647 рублей, в приложении отображается отрицательный баланс](https://github.com/OlgaNevezhina/MoneyTransfer/issues/1)
+* [При зачислении на баланс суммы, превышающей значение в 2_148_000_000 рублей, в приложении отображается ошибка ](https://github.com/OlgaNevezhina/MoneyTransfer/issues/2)
 
 ***Общие рекомендации***
 
